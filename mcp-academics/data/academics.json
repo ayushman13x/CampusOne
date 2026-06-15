@@ -1,0 +1,79 @@
+{
+  "attendancePolicy": {
+    "minimumRequired": "75%",
+    "description": "Students must maintain at least 75% attendance in each subject to be eligible for end-semester examinations.",
+    "shortageRule": "Students below 75% may be required to submit medical or official approval documents."
+  },
+  "examSchedule": [
+    {
+      "subject": "Database Management Systems",
+      "code": "CS304",
+      "date": "2026-06-18",
+      "time": "10:00 AM - 1:00 PM",
+      "venue": "Block A, Room 204"
+    },
+    {
+      "subject": "Operating Systems",
+      "code": "CS302",
+      "date": "2026-06-21",
+      "time": "10:00 AM - 1:00 PM",
+      "venue": "Block A, Room 206"
+    },
+    {
+      "subject": "Computer Networks",
+      "code": "CS306",
+      "date": "2026-06-24",
+      "time": "10:00 AM - 1:00 PM",
+      "venue": "Block B, Room 105"
+    }
+  ],
+  "syllabus": [
+    {
+      "subject": "Database Management Systems",
+      "code": "CS304",
+      "units": [
+        "Introduction to DBMS, data models, schemas and instances",
+        "ER model, relational model and relational algebra",
+        "SQL, joins, nested queries and views",
+        "Normalization, functional dependencies and decomposition",
+        "Transactions, concurrency control and recovery"
+      ]
+    },
+    {
+      "subject": "Operating Systems",
+      "code": "CS302",
+      "units": [
+        "Introduction to operating systems and system calls",
+        "Process management, CPU scheduling and threads",
+        "Synchronization, deadlocks and inter-process communication",
+        "Memory management, paging and virtual memory",
+        "File systems, disk scheduling and protection"
+      ]
+    },
+    {
+      "subject": "Computer Networks",
+      "code": "CS306",
+      "units": [
+        "Network models, OSI and TCP/IP architecture",
+        "Data link layer, error detection and MAC protocols",
+        "Network layer, IP addressing and routing algorithms",
+        "Transport layer, TCP, UDP and congestion control",
+        "Application layer protocols, DNS, HTTP and email"
+      ]
+    }
+  ],
+  "academicCalendar": [
+    {
+      "title": "Mid semester exam begins",
+      "date": "2026-06-18"
+    },
+    {
+      "title": "Project submission deadline",
+      "date": "2026-06-28"
+    },
+    {
+      "title": "Semester break starts",
+      "date": "2026-07-05"
+    }
+  ]
+}

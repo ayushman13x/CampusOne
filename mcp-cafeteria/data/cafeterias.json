@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Main Cafeteria",
+    "area": "Academic Block",
+    "openingTime": "8:00 AM",
+    "closingTime": "8:00 PM",
+    "isOpen": true,
+    "crowdLevel": "High",
+    "distanceFrom": {
+      "Library Block": "450m",
+      "Academic Block": "120m",
+      "Hostel Area": "700m"
+    },
+    "todayMenu": ["Veg Thali", "Paneer Roll", "Cold Coffee"]
+  },
+  {
+    "id": 2,
+    "name": "Library Cafe",
+    "area": "Library Block",
+    "openingTime": "9:00 AM",
+    "closingTime": "7:00 PM",
+    "isOpen": true,
+    "crowdLevel": "Low",
+    "distanceFrom": {
+      "Library Block": "80m",
+      "Academic Block": "420m",
+      "Hostel Area": "650m"
+    },
+    "todayMenu": ["Sandwich", "Masala Tea", "Pasta"]
+  },
+  {
+    "id": 3,
+    "name": "Hostel Mess",
+    "area": "Hostel Area",
+    "openingTime": "7:30 AM",
+    "closingTime": "10:00 PM",
+    "isOpen": true,
+    "crowdLevel": "Medium",
+    "distanceFrom": {
+      "Library Block": "650m",
+      "Academic Block": "720m",
+      "Hostel Area": "100m"
+    },
+    "todayMenu": ["Rice Bowl", "Dal Fry", "Curd"]
+  }
+]

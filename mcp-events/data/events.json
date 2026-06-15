@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "title": "Robotics Workshop",
+    "club": "MARS Club",
+    "type": "Tech",
+    "date": "2026-06-12",
+    "time": "4:00 PM",
+    "venue": "Main Auditorium",
+    "registrationLink": "https://campusone.demo/register/robotics-workshop"
+  },
+  {
+    "id": 2,
+    "title": "AI Bootcamp",
+    "club": "Coding Club",
+    "type": "Tech",
+    "date": "2026-06-14",
+    "time": "10:00 AM",
+    "venue": "Computer Lab 3",
+    "registrationLink": "https://campusone.demo/register/ai-bootcamp"
+  },
+  {
+    "id": 3,
+    "title": "Open Mic Night",
+    "club": "Cultural Club",
+    "type": "Cultural",
+    "date": "2026-06-16",
+    "time": "6:00 PM",
+    "venue": "Amphitheatre",
+    "registrationLink": "https://campusone.demo/register/open-mic"
+  },
+  {
+    "id": 4,
+    "title": "Inter-Department Football",
+    "club": "Sports Council",
+    "type": "Sports",
+    "date": "2026-06-18",
+    "time": "5:00 PM",
+    "venue": "Main Ground",
+    "registrationLink": "https://campusone.demo/register/football"
+  },
+  {
+    "id": 5,
+    "title": "Cybersecurity Awareness Talk",
+    "club": "Cyber Cell",
+    "type": "Tech",
+    "date": "2026-06-20",
+    "time": "2:00 PM",
+    "venue": "Seminar Hall",
+    "registrationLink": "https://campusone.demo/register/cybersecurity"
+  }
+]

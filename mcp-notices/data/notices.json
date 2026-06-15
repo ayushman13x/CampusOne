@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Scholarship application deadline",
+    "category": "Deadline",
+    "date": "2026-06-12",
+    "priority": "High",
+    "description": "Students applying for the merit scholarship must submit the online form before 5:00 PM."
+  },
+  {
+    "id": 2,
+    "title": "Hostel Block B power maintenance",
+    "category": "Maintenance",
+    "date": "2026-06-11",
+    "priority": "Medium",
+    "description": "Power supply in Hostel Block B will be unavailable from 10:00 AM to 12:00 PM due to maintenance."
+  },
+  {
+    "id": 3,
+    "title": "College holiday notice",
+    "category": "General",
+    "date": "2026-06-15",
+    "priority": "Medium",
+    "description": "The college will remain closed on 15 June due to a local holiday."
+  },
+  {
+    "id": 4,
+    "title": "Lost ID cards collection",
+    "category": "Lost & Found",
+    "date": "2026-06-13",
+    "priority": "Low",
+    "description": "Students who lost ID cards can check with the admin office between 2:00 PM and 4:00 PM."
+  },
+  {
+    "id": 5,
+    "title": "Library silence zone reminder",
+    "category": "General",
+    "date": "2026-06-10",
+    "priority": "Low",
+    "description": "Students are requested to maintain silence in the reading hall during exam preparation week."
+  }
+]

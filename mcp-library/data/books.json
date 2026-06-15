@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Operating System Concepts",
+    "author": "Silberschatz, Galvin",
+    "topic": "Computer Science",
+    "available": true,
+    "shelf": "CS-204"
+  },
+  {
+    "id": 2,
+    "title": "Database System Concepts",
+    "author": "Abraham Silberschatz",
+    "topic": "DBMS",
+    "available": false,
+    "shelf": "CS-118"
+  },
+  {
+    "id": 3,
+    "title": "Hands-On Machine Learning",
+    "author": "Aurélien Géron",
+    "topic": "Machine Learning",
+    "available": true,
+    "shelf": "AI-032"
+  },
+  {
+    "id": 4,
+    "title": "Computer Networks",
+    "author": "Andrew S. Tanenbaum",
+    "topic": "Networking",
+    "available": true,
+    "shelf": "CS-077"
+  },
+  {
+    "id": 5,
+    "title": "Artificial Intelligence: A Modern Approach",
+    "author": "Stuart Russell, Peter Norvig",
+    "topic": "Artificial Intelligence",
+    "available": true,
+    "shelf": "AI-011"
+  }
+]

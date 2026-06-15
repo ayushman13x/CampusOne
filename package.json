@@ -1,0 +1,23 @@
+{
+  "name": "campusone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  "dev": "concurrently \"npm run dev --prefix frontend\" \"npm run dev --prefix backend\" \"npm run dev --prefix mcp-library\" \"npm run dev --prefix mcp-cafeteria\" \"npm run dev --prefix mcp-events\" \"npm run dev --prefix mcp-academics\" \"npm run dev --prefix mcp-notices\"",
+  "frontend": "npm run dev --prefix frontend",
+  "backend": "npm run dev --prefix backend",
+  "library": "npm run dev --prefix mcp-library",
+  "cafeteria": "npm run dev --prefix mcp-cafeteria",
+  "events": "npm run dev --prefix mcp-events",
+  "academics": "npm run dev --prefix mcp-academics",
+  "notices": "npm run dev --prefix mcp-notices"
+},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "concurrently": "^10.0.3"
+  }
+}
